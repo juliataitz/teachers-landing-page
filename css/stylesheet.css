@@ -25,7 +25,9 @@ p, .copyright {
 }
 
 .vide {
-  background-image: url("../images/aankit.JPG");
+	background-color: #434345;
+/*  background-image: url("../images/aankit.JPG");
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% 100%;*/
+
 }
