@@ -13,7 +13,8 @@
 
 p, .copyright {
     font-weight: 300;
-    color: #14b3d9;
+    /*color: #14b3d9;*/
+    color: #434345;
 }
 
 .btn {
@@ -29,7 +30,7 @@ p, .copyright {
 
 .vide {
 	background-color: #434345;
-  background-image: url("../images/Flatiron School3.jpg");
+  background-image: url("../images/Flatiron School5.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
 
