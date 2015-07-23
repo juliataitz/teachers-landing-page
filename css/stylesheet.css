@@ -4,6 +4,7 @@
     line-height: 60px;
     /*font:  "NimbusSan-Bol";*/
     text-transform: capitalize;
+    /*color: #E6E6E6;*/
 }
 
 .well5 {
@@ -30,9 +31,15 @@ p, .copyright {
 
 .vide {
 	background-color: #434345;
-  background-image: url("../images/Flatiron School5.jpg");
+  background-image:     
+  		linear-gradient(
+      rgba(0, 0, 0, 0.4), 
+      rgba(0, 0, 0, 0.4)
+    	),
+  		url("../images/Flatiron School5.jpg") ;
   background-repeat: no-repeat;
   background-size: 100% 100%;
 
 }
+
 
