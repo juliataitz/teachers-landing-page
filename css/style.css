@@ -19,7 +19,7 @@ img {
 
 h1, h2, h3, h4, h5, h6 {
   color: #494b52;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 h1 {
@@ -258,7 +258,7 @@ img + .brand_name {
 }
 .brand_slogan {
   font-size: 12px;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-weight: 300;
   letter-spacing: 7.2px;
 }
@@ -330,7 +330,7 @@ img + .brand_name {
   background: #4280c9;
   font-weight: 500;
   font-size: 24px;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 .btn:hover {
   background: #3067a8;
@@ -569,7 +569,7 @@ blockquote img {
   font-weight: 400;
   font-family: "Ubuntu", sans-serif;
   line-height: 22px;
-  text-transform: uppercase;
+  text-transform: capitalize;
   height: 22px;
 }
 .subscribe-form a[data-type="submit"] {

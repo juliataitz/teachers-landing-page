@@ -44,7 +44,7 @@
 
 .booking-form input[type="text"], .booking-form textarea {
   font: 400 19px "Ubuntu", sans-serif;
-  text-transform: uppercase;
+  text-transform: capitalize;
   line-height: 22px;
   padding: 19px 18px 19px;
   color: #c1c1c1;

@@ -2,10 +2,13 @@
     font-weight: 700;
     font-size: 50px;
     line-height: 60px;
+    /*font:  "NimbusSan-Bol";*/
+    text-transform: capitalize;
 }
 
 .well5 {
-	background-color: #434345;
+	/*background-color: #434345;*/
+	background-color: white;
 }
 
 p, .copyright {
@@ -21,13 +24,14 @@ p, .copyright {
     background: #14b3d9;
     font-weight: 500;
     font-size: 24px;
-    text-transform: uppercase;
+    text-transform: capitalize;
 }
 
 .vide {
 	background-color: #434345;
-/*  background-image: url("../images/aankit.JPG");
+  background-image: url("../images/Flatiron School3.jpg");
   background-repeat: no-repeat;
-  background-size: 100% 100%;*/
+  background-size: 100% 100%;
 
 }
+
