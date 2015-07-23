@@ -1,0 +1,31 @@
+.vide h2 {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+}
+
+.well5 {
+	background-color: #434345;
+}
+
+p, .copyright {
+    font-weight: 300;
+    color: #14b3d9;
+}
+
+.btn {
+    display: inline-block;
+    padding: 18.5px 20px 18.5px 20px;
+    line-height: 24px;
+    color: #FFF;
+    background: #14b3d9;
+    font-weight: 500;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+
+.vide {
+  background-image: url("../images/aankit.JPG");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
