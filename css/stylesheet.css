@@ -30,17 +30,24 @@ p, .copyright {
 }
 
 .vide {
-	background-color: #434345;
+	background-color: #000000;
 /*  background-image:     
   		linear-gradient(
       	rgba(0, 0, 0, 0.4), 
       	rgba(0, 0, 0, 0.4)
     	),
   		url("../images/Flatiron School5.jpg") ;*/
-      background-image: url("../images/danny.png");
+
+  background-image: url("../images/danny.png");
   background-repeat: no-repeat;
   background-size: 100% 100%;
+/*      display: block;
+    width: 100% !important;
+    height: auto !important;*/
+ background-size: cover;
+
 
 }
+
 
 
